@@ -28,7 +28,7 @@ Ultimately, from this experience I learned to importance of decisive decision-ma
 
 You can find out more at: [Civil Air Patrol](https://www.gocivilairpatrol.com/programs/cadets/).
 
-You can also visit: [Civil Air Patrol](https://www.gocivilairpatrol.com/programs/cadets/activities/encampment/).
+You can also visit: [Encampment](https://www.gocivilairpatrol.com/programs/cadets/activities/encampment/).
 
 
 
