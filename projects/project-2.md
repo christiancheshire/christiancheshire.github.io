@@ -13,7 +13,9 @@ labels:
 summary: A game coded in Java using Eclipse for my initial Computer Science project. This was the first game I created in my coding career.
 ---
 
-<img class="ui fluid image" src="../images/raptor-small.jpg">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/raptor.jpg ">
+</div>
 
 The objective of Olympic Jet Racing is for the player to win the race against the other jets which are assigned random speeds. The game was based on my idea of a hypothetical future jet racing event at the Olympics. Using the "A" and "S" keys, the player alternately presses each key to move forward. However, the player cannot simply hold the keys down. They must continue to alternately press each key in order to advance their fighter jet character across the screen. If the player reaches the finish line first, the program announces that they are the winner and awards them the title of "Ace". If the player does not reach the finish line before the other jets, they lose and the winning jet is announced as the winner. 
 
