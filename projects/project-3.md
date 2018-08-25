@@ -1,61 +1,36 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/encampment.jpg
+title: Encampment
+permalink: projects/encampment
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2016-12-26
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Civil Air Patrol
+  - Leadership
+  - Volunteer
+  - Teamwork
+summary: My culminating leadership challenge as a Cadet Officer in the Civil Air Patrol.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/WEV.jpg ">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+From February 2015 to January 2016 I was the Cadet Commander of the Civil Air Patrol Encampment for Oregon Wing. The Civil Air Patrol is the official auxiliary branch of the U.S. Air Force and is a volunteer organization which conducts Emergency Services, Aerospace Education, and Cadet Programs. I served as a cadet from 2011-2017, culminating my cadet career as a Cadet Colonel and the Cadet Commander of Encampment. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+Encampment is a week-long event organized by most of the Civil Air Patrol's 50+ wings, which are established along state lines. The purpose of the activity is to provide basic leadership and military-type training to new cadets who have recently entered the program and are seeking to advance as cadets. As Cadet Commander of the Oregon Wing Encampment, I was responsible for the well-being, training, and leadership of over 100 cadets under my command. As Cadet Commander I selected all of my training staff members and then led them in a 6-month planning process which culminated in one week of intense training for Oregon Wing's new cadets.
 
-<hr>
+During the one week of training, I was fully responsible for the entire encampment 24/7. All leadership responsibility rested on me. Discipline, safety, training and every other aspect of the event was on my shoulders. Thankfully, I had excellent staff members under my command who enabled the successful completion of our mission.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Ultimately, from this experience I learned to importance of decisive decision-making, extensive prior planning, and free-flowing comunication. As a leader, I had to make difficult and sometimes unpleasant decisions. However, those decisions are what build character and experience. This leadership challenge built me into an even greater leader and person of strong moral character. In the long-term, this experience placed me on my current path to become and Air Force officer and continue to serve my country as a leader in the future.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+You can find out more at: [Civil Air Patrol](https://www.gocivilairpatrol.com/programs/cadets/).
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
+You can also visit: [Civil Air Patrol](https://www.gocivilairpatrol.com/programs/cadets/activities/encampment/).
 
-pickup candle
-- you are now carrying the candle -
 
-pickup match
-- you are now carrying the match -
 
-light match candle
 
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
