@@ -13,6 +13,9 @@ labels:
   - Eclipse IDE
 summary: Animated arcade game developed in Java using the Eclipse IDE. Final project for my introductory Computer Science course at University of Hawaii - Manoa.
 ---
+
+<img class="ui fluid image" src="../images/pikachu.jpg">
+
 The objective of Pikachu Sprint is for the player to cover a maximum distance and avoid hitting obstacles by jumping over oncoming obstacles. The player's score is counted and displayed in the top right corner. Crashing into an obstacle causes the game to stop and prompts the user to play-again or quit while also displaying the player's final score. 
 
 This game was written in Java using the Eclipse IDE. My teammate, Tallas Goo, created the code for the Pikachu character. This included the animation, crash mechanics, and movement mechanics. I developed source code for randomly generated objects and the hit-boxes which the Pikachu character would attempt to avoid. Together, both of us developed the scrolling animated background, music, score counter, and menu. I also acted as the spokesperson for the project team during our final presentation. 
