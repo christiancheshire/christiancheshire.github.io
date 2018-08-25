@@ -5,7 +5,7 @@ image: images/pikachu.jpg
 title: Pikachu Sprint
 permalink: projects/pikachu-sprint
 # All dates must be YYYY-MM-DD format!
-date: 2016
+date: 2016-12-12
 labels:
   - Animation
   - Game
