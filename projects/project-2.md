@@ -1,25 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/raptor.jpg
+title: Olympic Jet Racing
+permalink: projects/olympic-jet-racing
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2016-10-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Eclipse
+  - Game
+summary: A game coded in Java using Eclipse for my initial Computer Science project. This was the first game I created in my coding career.
 ---
+The objective of Olympic Jet Racing is for the player to win the race against the other jets which are assigned random speeds. The game was based on my idea of a hypothetical future jet racing event at the Olympics. Using the "A" and "S" keys, the player alternately presses each key to move forward. However, the player cannot simply hold the keys down. They must continue to alternately press each key in order to advance their fighter jet character across the screen. If the player reaches the finish line first, the program announces that they are the winner and awards them the title of "Ace". If the player does not reach the finish line before the other jets, they lose and the winning jet is announced as the winner. 
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+This game was written in Java using the Eclipse IDE. I developed all the code myself, although I received some gudidance and advice fro classmates and teaching assistants. Toe goal for the project was for students to learn how to use various loops and implement user input to create a simple racing game. It was the first computer science project which I had to create, so it seemed like a daunting task at first. It was certainly frustrating at times, since I had almost zero prior coding experience. However, I broke it up into different parts and set goals for myself to achieve certain objectives so that my program would be finished on time. The biggest lesson I learned from this project is the importance of asking for guidance when you need it and not being afraid to ask questions. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+You can watch a video of the gameplay at: [Olympic Jet Racing](https://www.youtube.com/watch?v=DhCaEseC1ks).
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
