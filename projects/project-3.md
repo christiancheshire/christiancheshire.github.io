@@ -5,7 +5,7 @@ image: images/encampment.jpg
 title: Encampment
 permalink: projects/encampment
 # All dates must be YYYY-MM-DD format!
-date: 2016-12-26
+date: 2015-12-26
 labels:
   - Civil Air Patrol
   - Leadership
