@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "Christian Cheshire",
         "url": "https://www.linkedin.com/in/christian-cheshire-593766122/"
-      }
+      },
     ]
   },
   "interests": [
@@ -73,7 +73,7 @@
       "studyType": "B.S.",
       "startDate": "2016-09-20",
       "endDate": "Present",
-      "gpa": "3.85",
+      "gpa": "",
       "courses": [
       ]
     }
@@ -125,7 +125,7 @@
       "highlights": [
         "Senior Member", "Spaatz Award - Cadet Colonel"
       ]
-    }
+    },
   ],
   "awards": [
     {
