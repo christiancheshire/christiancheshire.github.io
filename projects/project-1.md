@@ -1,44 +1,25 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/pikachu.jpg
+title: Pikachu Sprint
+permalink: projects/pikachu-sprint
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2016
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Animation
+  - Game
+  - Java
+  - Eclipse IDE
+summary: Animated arcade game developed in Java using the Eclipse IDE. Final project for my introductory Computer Science course at University of Hawaii - Manoa.
 ---
+The objective of Pikachu Sprint is for the player to cover a maximum distance and avoid hitting obstacles by jumping over oncoming obstacles. The player's score is counted and displayed in the top right corner. Crashing into an obstacle causes the game to stop and prompts the user to play-again or quit while also displaying the player's final score. 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+This game was written in Java using the Eclipse IDE. My teammate, Tallas Goo, created the code for the Pikachu character. This included the animation, crash mechanics, and movement mechanics. I developed source code for randomly generated objects and the hit-boxes which the Pikachu character would attempt to avoid. Together, both of us developed the scrolling animated background, music, score counter, and menu. I also acted as the spokesperson for the project team during our final presentation. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This project constituted my first experience coding a group project. Previously, all my projects were done on my own. The team dynamic proved to be extremely beneficial for me and taught me how to become a better programmer by listening to my teammate's ideas and suggestions. It also provided me an opportunity to give input on other's coding styles and ideas. Working with a project partner forced me to develop new ways of thinking about my code and work hard to contribute to the team effort. Most of all, I learned how important it is for members of a programming team to communicate clearly and effectively as well as share ideas and brainstorm together.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more at: [Pikachu Sprint Video](https://www.youtube.com/watch?v=cxXJ3wstaiM).
 
 
 
