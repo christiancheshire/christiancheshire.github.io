@@ -22,5 +22,5 @@ I am only a novice with JavaScript right now, but I can already see the vast ben
 
 ## Working it Out
 
-Now this amazing new world of JavaScript isn't any good unless its harnessed to produce something. Well, "Athletic Software Engineering" does just that. It takes all these new things and forces students like me to focus and think. The WOD (Workout of the Day) forces me to work-out during the week in order to perform better when it actually matters - in class. 
+Now this amazing new world of JavaScript isn't any good unless its harnessed to produce something. Well, "Athletic Software Engineering" does just that. Sort of like how a person has to focus on working-out in order to get fit, it takes all these new things and forces students like me to focus and think. Consequently, we become better programmers and more effective computer scientists. The WOD (Workout of the Day) and the practice WOD's force me to "work-out" on computer science stuff during the week in order to perform better when it actually matters - in class. 
 
