@@ -14,7 +14,7 @@ labels:
 
 ## First Reaction
 
-Ever since I first started coding I have always been frustrated by " the rules". Java, C, and C++ are great languages for teaching "the rules" because each of them has specific ways and methods of doing things and also of not letting you do things that you want to do bu "aren't allowed". Enter JavaScript. My first takeaway was "Huh, pretty similar to Java, C, C++, and so on". Then the reality sank in. "Wow, I can do that? Java doesn't let me do that!" Needless to say, I think I'm hooked. 
+Ever since I first started coding I have always been frustrated by " the rules". Java, C, and C++ are great languages for teaching "the rules" because each of them has specific ways and methods of doing things and also of not letting you do things that you want to do but "aren't allowed". I always thought that there must be an easier way to make computers do what you want. Even after growing to like coding, I was sill bothered by the difficulty of coding and the frustration of "the rules". Enter JavaScript. My first takeaway was "Huh, pretty similar to Java, C, C++, and so on". Then the reality sank in. "Wow, I can do that? Java doesn't let me do that!" Needless to say, I think I'm hooked. 
 
 ## Flexibility and Siplicity
 
