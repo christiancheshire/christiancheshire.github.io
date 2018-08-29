@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: An Easy Language for Coding?
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-25
+date: 2018-08-26
 labels:
   - Software Engineering
   - Learning
