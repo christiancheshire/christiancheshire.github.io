@@ -24,7 +24,7 @@ Encampment is a week-long event organized by most of the Civil Air Patrol's 50+ 
 
 During the one week of training, I was fully responsible for the entire encampment 24/7. All leadership responsibility rested on me. Discipline, safety, training and every other aspect of the event was on my shoulders. Thankfully, I had excellent staff members under my command who enabled the successful completion of our mission.
 
-Ultimately, from this experience I learned to importance of decisive decision-making, extensive prior planning, and free-flowing comunication. As a leader, I had to make difficult and sometimes unpleasant decisions. However, those decisions are what build character and experience. This leadership challenge built me into an even greater leader and person of strong moral character. In the long-term, this experience placed me on my current path to become and Air Force officer and continue to serve my country as a leader in the future.
+Ultimately, from this experience I learned to importance of decisive decision-making, extensive prior planning, and free-flowing comunication. As a leader, I had to make difficult and sometimes unpleasant decisions. However, those decisions are what build character and experience. This leadership challenge built me into an even greater leader and person of strong moral character. In the long-term, this experience placed me on my current path to become an Air Force officer and continue to serve my country as a leader in the future.
 
 You can find out more at: [Civil Air Patrol](https://www.gocivilairpatrol.com/programs/cadets/).
 
