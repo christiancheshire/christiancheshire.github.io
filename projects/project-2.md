@@ -13,7 +13,7 @@ labels:
 summary: A game coded in Java using Eclipse for my initial Computer Science project. This was the first game I created in my coding career.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/raptor.jpg ">
 </div>
 
