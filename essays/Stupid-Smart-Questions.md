@@ -28,7 +28,7 @@ Link: <a href="https://stackoverflow.com/questions/52211887/facebook-graph-api-p
 
 For this Stack Overflow question, the major noticeable thing is the lack of information. The user simply didn’t provide any code or details on what he or she tried previously. There simply isn't enough information for anyone to help solve the issue. By not taking the time to research the problem beforehand and failing to demonstrate a desire to actually learn and understand what is going on, the user destroyed their opportunity to learn and showed their laziness. 
 
-Link: <a href="https://stackoverflow.com/questions/52211630/using-jest-how-do-i-spyon-an-extended-components-method-when-unit-testing-a-si"><i class="large github icon"></i>Good Question Example At StackOverflow</a>
+Link: <a href="https://stackoverflow.com/questions/52211630/using-jest-how-do-i-spyon-an-extended-components-method-when-unit-testing-a-si"></i>Good Question At StackOverflow</a>
 
 In this example, we see a much smarter user who is asking a smart question. First, he details the steps he has taken to define the problem and expresses an understanding of what is going on with his code. After explaining in detail what his code is designed to do and expressing some of the ideas he tried to solve the problem, the user provides a short, to-the-point question about how to solve the issue. By including his code, it is easy to see what he is trying to do and other programmers can look for errors that he may have missed. Also, the user’s explanation of the problem and documented attempts to solve it show that he wants to learn and understand, not just simply “get the answer”.
 
