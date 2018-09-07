@@ -14,7 +14,7 @@ labels:
 summary: Animated arcade game developed in Java using the Eclipse IDE. Final project for my introductory Computer Science course at University of Hawaii - Manoa.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/pikachu.jpg ">
 </div>
 
