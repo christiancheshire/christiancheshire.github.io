@@ -40,4 +40,4 @@ So, you might finally be asking "how do I ask smart questions?". First, take som
 
 Learning to ask smart questions is a process. It takes practice, just like anything else in life. However, if you follow these general guidelines and learn from the examples outlined in this essay you will be well on your way to becoming a smart question-asker. I also highly recommend reading "How to Ask Questions the Smart Way" by Eric Raymond. Remember, there is such a thing as a stupid question - don't ask it. 
 
-Link: <a href="http://www.catb.org/esr/faqs/smart-questions.html"><i class="large github icon"></i>How To Ask Questions The Smart Way</a>
+[How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
