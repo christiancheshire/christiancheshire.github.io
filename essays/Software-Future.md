@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui small right spaced image" src="../images/code.jpg">
+<img class="ui large right spaced image" src="../images/code.jpg">
 
 Software Engineering - it sounds challenging and maybe a bit foreboding for the average computer science student, especially since when we think of engineering we think of buidling huge, complex things. However, it doesn't have to be that way. In fact, I am looking forward to software engineering because I think it will make me a better programmer and a more well rounded computer scientist.
 
