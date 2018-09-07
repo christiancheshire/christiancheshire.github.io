@@ -14,7 +14,7 @@ labels:
 summary: My culminating leadership challenge as a Cadet Officer in the Civil Air Patrol.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/WEV.jpg ">
 </div>
 
