@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny right spaced image" src="../images/javascript.png">
+<img class="ui large right spaced image" src="../images/javascript.png">
 
 ## First Reaction
 
