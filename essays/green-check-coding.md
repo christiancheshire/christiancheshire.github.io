@@ -1,4 +1,19 @@
-#The Green Check: Making Coding Standards Work for You
+---
+layout: essay
+type: essay
+title: The Green Check: Making Coding Standards Work for You
+# All dates must be YYYY-MM-DD format!
+date: 2018-09-20
+labels:
+  - Software Engineering
+  - Learning
+  - Javascript
+  - Coding Standards
+  - ESLint
+  - IntelliJ IDEA
+---
+
+<img class="ui small right spaced image" src="../images/screenshot.png">
 
 ##What’s the Point?
 
