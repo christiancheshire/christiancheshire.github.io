@@ -10,7 +10,7 @@ labels:
   - ESLint
 ---
 
-<img class="ui small right spaced image" src="../images/screenshot.png">
+<img class="ui large right spaced image" src="../images/screenshot.png">
 
 ## What’s the Point?
 
