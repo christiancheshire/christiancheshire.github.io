@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Green Check: Making Coding Standards Work for You
+title: The Green Check - Making Coding Standards Work for You
 # All dates must be YYYY-MM-DD format!
 date: 2018-09-20
 labels:
