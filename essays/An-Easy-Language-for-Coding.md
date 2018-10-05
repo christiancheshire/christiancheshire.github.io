@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui small right spaced image" src="../images/javascript.png">
+<img class="ui small right spaced image" src="https://semantic-ui.com/images/examples/theming.png">
 
 ## First Reaction
 
