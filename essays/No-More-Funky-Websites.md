@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: No More Funky Websites!
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-04
+date: 2018-10-04
 labels:
   - Software Engineering
   - Learning
