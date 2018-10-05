@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui small right spaced image" src="https://semantic-ui.com/images/examples/theming.png">
+<img class="ui medium right spaced image" src="https://semantic-ui.com/images/examples/theming.png">
 
 ## Make It Look Good
 
