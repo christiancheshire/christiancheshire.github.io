@@ -22,7 +22,7 @@ To be honest, until I started using Semantic UI, I had never even realized that 
 
 ## Simplicity and Clarity
 
-Web development has always been something that I wanted to do, since I greatly appreciate well designed websites and I believe that webpages are one of the best ways for information to be dispersed in our modern world. After spending a week of using raw HTML and CSS for my webpages, Semantic UI opened a new world of web design for me. Although implementing Semantic UI can be frustrating at times, the benefits definitely outweigh the sometimes difficult process of figuring out how to get the perfect format for a webpage. I particularly enjoy how simple and clear it is to write things out using Semantic UI. The wording is basically just like English. For example, when I want to create a three column grid, then that is exactly what I type - so simple!
+Web development has always been something that I wanted to do, since I greatly appreciate well designed websites and I believe that webpages are one of the best ways for information to be dispersed in our modern world. After spending a week of using raw HTML and CSS for my webpages, Semantic UI opened a new world of web design for me. Although implementing Semantic UI can be frustrating at times, the benefits definitely outweigh the sometimes difficult process of figuring out how to get the perfect format for a webpage. I particularly enjoy how simple and clear it is to write things out using Semantic UI. The wording is basically just like English. For example, when I want to create a three column grid, then that is exactly what I type. If I want a massive green button, then I type "massive green button" - it's so simple!
 
 ## A Promising Future
 
