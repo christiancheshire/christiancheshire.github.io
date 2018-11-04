@@ -58,6 +58,10 @@
         "C++",
         "Java",
         "JavaScript",
+        "HTML",
+        "CSS",
+        "Semantic UI",
+        "React",
       ]
     },
     {
@@ -66,9 +70,13 @@
       "keywords": [
         "Windows OS",
         "Eclipse",
+        "IntelliJ",
+        "Meteor",
         "GitHub",
         "Google Suite",
         "Microsoft Office",
+        "MySQL",
+        "Node JS",
       ]
     }
   ],
