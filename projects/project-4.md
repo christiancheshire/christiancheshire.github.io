@@ -17,7 +17,7 @@ labels:
 summary: Web application developed using Meteor, React, and Semantic UI in IntelliJ IDEA. Final project for my Software Engineering course at University of Hawaii - Manoa.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/landing-page.png ">
 </div>
 
