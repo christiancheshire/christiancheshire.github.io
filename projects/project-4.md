@@ -29,7 +29,7 @@ This project proved to be a rewarding challenge for me. Previously, most of my p
 
 You can visit the project homepage at: [OnoGrindzManoa](https://onogrindzmanoa.github.io/).
 
-Check out the app's source code at GitHub: <a href="https://github.com/onogrindzmanoa/onogrindzmanoa"><i class="large github icon"></i>christiancheshire/pikachu-sprint</a>
+Check out the app's source code at GitHub: <a href="https://github.com/onogrindzmanoa/onogrindzmanoa"><i class="large github icon"></i>onogrindzmanoa</a>
 
 
 
