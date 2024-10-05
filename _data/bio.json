@@ -82,14 +82,6 @@
   ],
   "education": [
     {
-      "institution": "",
-      "area": "Computer Science (expected Fall, 2020)",
-      "studyType": "B.S.",
-      "startDate": "",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
     }
   ],
   "work": [
@@ -118,19 +110,6 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Civil Air Patrol",
-      "website": "https://www.gocivilairpatrol.com/",
-      "position": "r",
-      "startDate": "",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Performed leadership duties in multiple positions",
-        "Planned and executed operations plans",
-        "Taught leadership skills",
-      ]
     },
     {
       "organization": "Boy Scouts of America",
@@ -142,14 +121,6 @@
       "highlights": [
         ""
       ]
-    },
-  ],
-  "awards": [
-    {
-      "title": "Spaatz Award",
-      "date": "2016",
-      "awarder": "Civil Air Patrol",
-      "summary": "Awarded to the top 0.5% of cadets in the Civil Air Patrol Cadet Program for demonstrated leadership, physical fitness, and military knowledge."
     },
   ],
   "references": [
