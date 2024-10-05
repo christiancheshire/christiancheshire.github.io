@@ -6,13 +6,13 @@
     "email": "ccheshir@hawaii.edu",
     "phone": "",
     "website": "https://christiancheshire.github.io",
-    "summary": "I am currently pursuing a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2020.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
@@ -85,7 +85,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2016-08-01",
+      "startDate": "",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -94,20 +94,18 @@
   ],
   "work": [
     {
-      "company": "Bierson Corporation",
+      "company": " ",
       "position": "Product Preparation Specialist",
       "website": "",
-      "startDate": "2018-06-11",
-      "endDate": "2018-07-31",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Prepared and assembled products for production line",
-        "Packaged products for shipment",
-        "Developed and implemented improved and more efficient means for producing products in a time-critical environment"
+        ""
       ]
     },
     {
-      "company": "Applegate Christian Fellowship",
+      "company": "",
       "position": "Grounds Worker",
       "website": "",
       "startDate": "2016-06-07",
@@ -142,17 +140,11 @@
       "endDate": "2013-12-31",
       "summary": "Developed leadership and outdoor skills while also performing community service projects",
       "highlights": [
-        "Troop 007, Medford"
+        ""
       ]
     },
   ],
   "awards": [
-    {
-      "title": "AFROTC Type 1 Scholarship",
-      "date": "2017-Present",
-      "awarder": "Air Force Reserve Officers Training Corps",
-      "summary": "Cadets are awarded this scholarship based on demonstrated potential for commissioning as an Air Force officer, including factors such as physical fitness, GPA and leadership potential."
-    },
     {
       "title": "Spaatz Award",
       "date": "2016",
