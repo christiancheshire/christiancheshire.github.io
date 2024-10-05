@@ -3,9 +3,9 @@
     "name": "Christian Cheshire",
     "label": "Student",
     "picture": "//https://christiancheshire.github.io/images/ccheshir.jpg//",
-    "email": "ccheshir@hawaii.edu",
+    "email": "",
     "phone": "",
-    "website": "https://christiancheshire.github.io",
+    "website": "//https://christiancheshire.github.io//",
     "summary": "",
     "location": {
       "address": "",
@@ -18,12 +18,12 @@
       {
         "network": "github",
         "username": "christiancheshire",
-        "url": "http://github.com/christiancheshire"
+        "url": ""
       },
       {
         "network": "linkedin",
         "username": "Christian Cheshire",
-        "url": "https://www.linkedin.com/in/christian-cheshire-593766122/"
+        "url": ""
       },
     ]
   },
@@ -44,7 +44,7 @@
       ]
     },
     {
-      "name": "Air Force",
+      "name": "",
       "keywords": [
       ]
     }
@@ -82,7 +82,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "",
       "area": "Computer Science (expected Fall, 2020)",
       "studyType": "B.S.",
       "startDate": "",
@@ -122,10 +122,10 @@
     {
       "organization": "Civil Air Patrol",
       "website": "https://www.gocivilairpatrol.com/",
-      "position": "Senior Member",
-      "startDate": "2011-08-04",
+      "position": "r",
+      "startDate": "",
       "endDate": "Present",
-      "summary": "Serve in the Civil Air Patrol, U.S. Air Force Auxiliary, as a senior member leader",
+      "summary": "",
       "highlights": [
         "Performed leadership duties in multiple positions",
         "Planned and executed operations plans",
