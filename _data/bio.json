@@ -2,7 +2,7 @@
   "basics": {
     "name": "Christian Cheshire",
     "label": "Student",
-    "picture": "//https://christiancheshire.github.io/images/ccheshir.jpg//",
+    "picture": "//https://christiancheshire.github.io/",
     "email": "",
     "phone": "",
     "website": "//https://christiancheshire.github.io//",
@@ -18,11 +18,6 @@
       {
         "network": "github",
         "username": "christiancheshire",
-        "url": ""
-      },
-      {
-        "network": "linkedin",
-        "username": "Christian Cheshire",
         "url": ""
       },
     ]
